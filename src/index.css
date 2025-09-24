@@ -9,5 +9,10 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
+    text-transform: capitalize;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    outline: none;
+
 }
     
